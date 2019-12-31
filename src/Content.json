@@ -1,0 +1,37 @@
+{
+  "seventies": {
+    "100": "The one whom I was waiting for <br> The one whom my heart was restless for <br> That moment has come <br> Today we have to cross the limits in love <br> Should I kill you or should I die myself",
+    "200": "b",
+    "300": "c",
+    "400": "d",
+    "500": "e"
+  },
+  "eighties": {
+    "100": "a",
+    "200": "b",
+    "300": "c",
+    "400": "d",
+    "500": "e"
+  },
+  "nineties": {
+    "100": "a",
+    "200": "b",
+    "300": "c",
+    "400": "d",
+    "500": "e"
+  },
+  "two-thousands": {
+    "100": "a",
+    "200": "b",
+    "300": "c",
+    "400": "d",
+    "500": "e"
+  },
+  "twenty-tens": {
+    "100": "a",
+    "200": "b",
+    "300": "c",
+    "400": "d",
+    "500": "e"
+  }
+}
